@@ -47,19 +47,19 @@ LAMPREG_Project/
 # 1. Trial Profile (CONSORT Diagram)
 Participant flow from enrollment through to per-protocol analysis.
 
-[![](https://github.com/danblacknote/LAMPREG-a-pragmatic-randomised-diagnostic-outcomes-trial/blob/e366fb490f5d382e05d96366860fee2c507f00fe/Charts/Fig%201.PNG)]
+![](https://github.com/danblacknote/LAMPREG-a-pragmatic-randomised-diagnostic-outcomes-trial/blob/e366fb490f5d382e05d96366860fee2c507f00fe/Charts/Fig%201.PNG)
 <!-- Replace with actual CONSORT diagram from the paper -->
 
 # 2. Diagnostic Performance
 LAMP sensitivity and specificity compared to microscopy and RDT across transmission settings.
 
-[![](https://github.com/danblacknote/LAMPREG-a-pragmatic-randomised-diagnostic-outcomes-trial/blob/e366fb490f5d382e05d96366860fee2c507f00fe/Charts/Fig%204.PNG)]
+![](https://github.com/danblacknote/LAMPREG-a-pragmatic-randomised-diagnostic-outcomes-trial/blob/e366fb490f5d382e05d96366860fee2c507f00fe/Charts/Fig%204.PNG)
 <!-- Replace with Figure 2 from the paper -->
 
 # 3. Infant Weight Gain Analysis
 Multivariable linear regression of the change score in infant weight gain.
 
-[![](https://github.com/danblacknote/LAMPREG-a-pragmatic-randomised-diagnostic-outcomes-trial/blob/e366fb490f5d382e05d96366860fee2c507f00fe/Charts/Fig%205.PNG)]
+![](https://github.com/danblacknote/LAMPREG-a-pragmatic-randomised-diagnostic-outcomes-trial/blob/e366fb490f5d382e05d96366860fee2c507f00fe/Charts/Fig%205.PNG)
 <!-- Replace with Figure 3 from the paper -->
 
  🛠️ Data Management & Analysis Workflow
