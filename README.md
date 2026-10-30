@@ -77,7 +77,6 @@ This repository adheres to strict data governance and reproducible research stan
 - [x] Regression Models: Adjusted low-birthweight frequencies (accounting for digit heaping) and infant weight-gain models.
 
 
- 🚀 Getting Started
 # Prerequisites
 To replicate the statistical analysis, you will need:
    Stata (Version 16 or higher recommended)
