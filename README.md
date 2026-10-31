@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-CC_BY--NC--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 [![Language](https://img.shields.io/badge/Language-Stata-orange.svg)](#)
 
- 📖 Project Overview
+## 📖 Project Overview
 LAMPREG is a pragmatic randomised diagnostic outcomes trial conducted across eight health facilities in rural Ethiopia. The study evaluates the effectiveness of a screen-and-treat strategy using Loop-Mediated Isothermal Amplification (LAMP) technology compared to the standard of care (microscopy and RDT) for detecting and treating malaria in pregnancy (MiP). 
 While LAMP demonstrated significantly higher sensitivity for detecting low-level and asymptomatic infections, the trial found no significant difference in the primary outcome of low birthweight. However, post-hoc analyses suggested potential benefits in infant weight gain by day 28.
 
@@ -89,10 +89,10 @@ Principal Investigators:
    Prof. Delenasaw Yewhalaw (Jimma University)
    Dr. Mekonnen Teferi (Armauer Hansen Research Institute)
    
-Data Management: 
+## Data Management: 
    Mr. Deneke Zewdu (TIDRC, Jimma University)
 
-Institutions Involved:
+## Institutions Involved:
    University of Calgary (Canada)
    Armauer Hansen Research Institute (Ethiopia)
    Jimma University (Ethiopia)
